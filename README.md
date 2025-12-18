@@ -76,6 +76,10 @@ Spotify is a registered trademark of Spotify AB.
 
 <!-- Add screenshots here -->
 
+<img src="./public/Homepage.png" width="800" />
+Home Page
+<img src="./public/Albumpage.png" width="800" />
+Album Page
 ---
 
 ## 📦 Setup Instructions

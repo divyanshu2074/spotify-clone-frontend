@@ -91,7 +91,7 @@ This README is:
 - Honest
 - Clean
 - Recruiter-safe
-- Portfolio-appropriate
+- Portfolio-appropriate.
 
 ---
 
